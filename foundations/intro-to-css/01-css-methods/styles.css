@@ -1,0 +1,12 @@
+div {
+    background-color: red;
+    /* Set the background color to red */
+    color: white;
+    /* Set the text color to white */
+    font-size: 32px;
+    /* Set the font size to 32px */
+    text-align: center;
+    /* Center align the text */
+    font-weight: bold;
+    /* Set the font weight to bold */
+}
