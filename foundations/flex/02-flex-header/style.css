@@ -2,7 +2,6 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
   align-items: center;
   padding: 8px;
@@ -20,9 +19,8 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
-  flex-direction: row;
   padding: 0;
-  gap: 16px;
+  gap: 8px;
 }
 
 a {
